@@ -15,7 +15,7 @@ function createPromise(position, delay) {
       }
     }, delay);
   })
-};
+}
 
 function handleSubmit(event) {
   event.preventDefault();
