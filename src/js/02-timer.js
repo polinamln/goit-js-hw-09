@@ -79,9 +79,7 @@ function updateTimer(endTime) {
     }, 1000);
 
     
-}
-
-
+};
 
 function convertMs(ms) {
   const second = 1000;
